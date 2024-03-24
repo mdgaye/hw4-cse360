@@ -1,0 +1,7 @@
+Patient ID: 74589
+First Name: mai 
+Last Name: gaye
+Email: maigaye8@hpotmail.com
+Phone Number: 6025929075
+Health History: asthma
+Insurance ID: 122897
